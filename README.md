@@ -19,3 +19,5 @@
  * [lovebird](https://github.com/rxi/lovebird) was in the directory /debug/
  
  If for whatever reason you find this code useful, feel free to use any aspect of it in your own projects. If you wish you can credit me as either Noemi Banks or @mimimalloc.
+
+I will be posting updates on how this code will be ported on my Cohost account! Feel free to check in and follow if you have an account: [Noemi's Cohost](https://cohost.org/Noemi)
